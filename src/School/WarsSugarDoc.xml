@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Arielle 
+Friday Apr. 28, 2017
+Squirrels 
+-->
+
+
+<squirrels>
+    <title>Wars, Sugar and Plate tectonics: Why Sciurus sugeari and Sciurus ainabeari are completely different species</title>
+    <intro>Today you will go on a journey that spans across time periods explaining not only<br /> 
+        the difference between the squirrels of St. Kitts and Nevis islands,<br />
+        but also a bit of geographical and political history! (press enter to continue)<br /></intro>
+    <plates>The islands St. Kitts and Nevis are situated on the Caribbean plate,<br /> 
+    but at one time they were one island. This is where the Sciurus primal<br />
+    was located (the original species). Then this species was split into two by earth quakes<br />
+    and other tectonic activities that occurred over 50 million years ago which split the one<br />
+    island into two separate ones. This will soon create two separate species due to allopatric speciation.
+</plates>
+    <stkitts>
+        <war><br />In 1705, 5 000 French troops stormed the island, starting The War of Spanish Succession.<br />
+        The squirrels that were able run quickly (top speed: 2.2m/second) to escape the skirmishes were naturally<br />
+        selected through directional selection because they survived longer and were able to reproduce<br />
+        more. Nature also directionally selected the squirrels that were able to jump<br />
+        the highest (avg. leap height: 1.4m) because being tree based animals, it was their natural spot to hide from attack.</war>
+        <bottleneck>After the war, the gene pool of the squirrels had a higher frequency of individuals that were<br />
+        able to jump high and move fast. Though the war brought many tragedies to the island, including<br />
+        a bottleneck effect which significantly reduced the once thriving squirrel community to only 15<br />
+        individuals. The remaining individuals were still mainly high jumpers and fast runners, however due to<br />
+        the genetic drift that occurred, the reproductive alleles in the new gene pool limited their<br />
+        reproductive success. Causing them to have low fertility rates which slowly, but steadily<br />
+        reduced their population for the centuries to come. To compensate they had short courtship<br />
+        (about 12.6 seconds) and gestation (around 29.3 days) periods.</bottleneck>
+        <sugar1>After the war, St. Kitts quickly became the Caribbean's largest producer of molasses,<br />
+        and other sugar related products. Soon there was one plantation for every acre of land<br />
+        on the island. The squirrels that were able to use this as a source of energy were selected through<br />
+        directional selection because there was no other competition for that food on the island yet and it<br />
+        increased their already low chances of reproductive success. 
+</sugar1>
+        <sugar2>Eventually competition grew and the squirrels that were shorter in length (approximately 21.8cm) were selected<br />
+        since they were able to slip through the farmers’ fences easily. Though they kept their relatively large<br />
+        fore (around 4.2cm) and hind limbs (around 7.8cm) to reach in between fences and sugar cane stalks for food and to run fast.</sugar2>
+        <mating>Pre-zygotic temporal speciation occurred due to the change of mating season. The squirrels on St. Kitts<br />
+        had their mating times before the summer months when the sugar was in season, so their offspring could eat<br />
+        from the bounty sugar when they were born. This contrasted with their relatives' mating season around fall.</mating>
+    </stkitts>
+    <nevis>
+        The Nevis squirrels largely remained very similar to Sciurus primal.<br />
+        This is because there was minimal competition as they are unique to the island,<br />
+        so they evolved through stabilizing selection since individuals with the average<br />
+        (relative to the St. Kitts population) traits thrived due to no major changes in the environment. 
+    </nevis>
+    <conclusion>After centuries of speciation and evolution two new species were formed on these islands:<br /> 
+    Sciurus sugeari (St. Kitts) and Sciurus ainabeari (Nevis) 
+</conclusion>
+    
+</squirrels>
